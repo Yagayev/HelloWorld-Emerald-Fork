@@ -1,5 +1,5 @@
 # HelloWorld.java Emerald Fork
-##No more meat of shit, and beef stakes for all!
+## No more meat of shit, and beef stakes for all!
 ![thumbnail](./Thumbnail.jpeg)
 
 Welcome to the **Nanowar Of Steel**'s first GitHub project, and first ever example of a **source-code song**.
